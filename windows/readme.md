@@ -1,14 +1,4 @@
-<h1 align="center">Windows<br />
- 
-[![Build]][build_url]
-[![Version]][tag_url]
-[![Size]][tag_url]
-[![Package]][pkg_url]
-[![Pulls]][hub_url]
-
-</div></h1>
-
-Windows inside a Docker container.
+# Windows inside a Docker container.
 
 ## Features ✨
 
