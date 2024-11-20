@@ -1,9 +1,5 @@
 <h1 align="center">Windows<br />
-<div align="center">
-<a href="https://github.com/docker-pkg/tree/master/windows"><img src="https://github.com/docker-pkg/tree/master/windows/raw/master/.github/logo.png" title="Logo" style="max-width:100%;" width="128" /></a>
-</div>
-<div align="center">
-
+ 
 [![Build]][build_url]
 [![Version]][tag_url]
 [![Size]][tag_url]
